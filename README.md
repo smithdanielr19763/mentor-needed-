@@ -8,3 +8,13 @@
 smithdanielr19763/smithdanielr19763 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<!---
+I just fired up a new to me Device 
+HP MSI Trident 3
+Processor	Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz   3.00 GHz
+Installed RAM	8.00 GB
+GeForce GTX 1060 3GB
+System type	64-bit operating system, x64-based processor
+Windows 10 Home
+Im looking at instaling Linux if any one has suggestions on what i should install Im open to suggestions.
